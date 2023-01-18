@@ -1,0 +1,27 @@
+[
+  {
+    "stockName" : "Apple",
+    "numberOfShare" : 3000,
+    "sharePrice" : 30
+  },
+  {
+    "stockName" : "Microsoft",
+    "numberOfShare" : 4000,
+    "sharePrice" : 20
+  },
+  {
+    "stockName" : "Google",
+    "numberOfShare" : 5000,
+    "sharePrice" : 25
+  },
+  {
+    "stockName" : "WallMart",
+    "numberOfShare" : 6000,
+    "sharePrice" : 60
+  },
+  {
+  "stockName" : "Amazon",
+  "numberOfShare" : 2000,
+  "sharePrice" : 40
+  }
+]
